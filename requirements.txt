@@ -1,0 +1,3 @@
+# PromptProof has no runtime dependencies -- Python 3.10+ standard library only.
+# This file exists so automated tooling finds an explicit statement of that.
+# Development only (optional): pytest, if you prefer it over unittest.
